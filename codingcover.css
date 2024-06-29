@@ -1,0 +1,32 @@
+.Coding-cover{
+    background-image: url('CodingCoverPages.avif');
+    background-size: cover;
+    /* background-position: center; */
+    height: 90vh;
+    width: 70vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+body,html{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    border: 5px solid #48ee59 ;
+    height: 280px;
+    width: 280px;
+    padding: 10px;
+    background-color:#00000080 ;
+  
+    
+}
+.card h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.code{
+    display: flex;
+    justify-content: center;
+}
